@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     cout << "lmao lamo";
-    cout << "year baby i'm handsome";
+    cout << "year baby i'm handsome i'm gay";
 }
